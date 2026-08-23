@@ -1,0 +1,5 @@
+f=open("pratap.txt")
+lines=f.readlines()
+print(lines)
+print(type(lines))
+f.close()
