@@ -1,4 +1,4 @@
-//package Self Problems;
+package Self Problems;
 
 public class averagepratap {
     public static void main(String[] args) {
