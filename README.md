@@ -57,6 +57,7 @@ The class name may differ from the filename in other exercises; use the class de
 
 ## Related repositories
 
-- [BridgeLabz-Training-1Y](https://github.com/Ujjwalpratap001/tree/programming-constructs/BridgeLabz-Training-1Y)
-- [Java-Practice](https://github.com/Ujjwalpratap001/tree/main/Java-Practice)
-- [LeetCode-Solutions](https://github.com/Ujjwalpratap001/tree/main/LeetCode-Solutions)
+- [BridgeLabz-Training-1Y](https://github.com/Ujjwalpratap001/BridgeLabz-Training-1Y/tree/programming-constructs/BridgeLabz-Training-1Y)
+- [Typing Panda](https://typing-panda.web.app)
+- [Ujjwal Pratap’s public GitHub projects](https://github.com/Ujjwalpratap001?tab=repositories)
+- [Personal portfolio source](https://github.com/Ujjwalpratap001/ujjwal-portfolio)
